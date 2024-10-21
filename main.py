@@ -19,7 +19,7 @@ def process_image(image_path):
     return image
 
 if __name__ == "__main__":
-    image_path = "images/test4.jpeg"
+    image_path = "images/test1.jpeg"
 
     # 이미지 처리
     processed_image = process_image(image_path)
